@@ -1,0 +1,1 @@
+{"index.html":"<style>\n  .responsive-img {\nmax-width: 100%;\ndisplay: block;\nheight: auto;\n  }\n  img {\n  width: 600px;\n}\n</style>\n<img class=\"responsive-img\" src=\"https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg\" alt=\"freeCodeCamp stickers set\">\n<img src=\"https://s3.amazonaws.com/freecodecamp/FCCStickerPack.jpg\" alt=\"freeCodeCamp stickers set\">"}
